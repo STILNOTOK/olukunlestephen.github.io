@@ -15,3 +15,6 @@ Included:
 - Original article images in assets/
 
 Keep your existing personal/brand images in assets/; the two article JPGs are included.
+- Added Article #2: I'm Building a Fintech From Scratch. Here's What I Don't Know Yet
+- Added original SNOKPay editorial illustration
+- Updated Articles page, homepage journal section and sitemap for Article #2
